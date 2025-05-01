@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="openembedded" fetch="https://git.openembedded.org"/>
+    <remote name="yoctoproject" fetch="https://git.yoctoproject.org"/>
+    <remote name="github" fetch="https://github.com"/>
+    <remote name="quince" fetch="https://github.com/sugiura-ryusuke"/>
+    <default remote="github" revision="main"/>
+
+    <project name="bitbake" path="layers/bitbake" remote="openembedded" revision="7375d32e8c1af20c51abec4eb3b072b4ca58b239"/>
+    <project name="openembedded-core" path="layers/openembedded-core" remote="openembedded" revision="cd2b6080a4c0f2ed2c9939ec0b87763aef595048"/>
+    <project name="meta-openembedded" path="layers/meta-openembedded" remote="openembedded" revision="f23c8d7362aa8b23a18e38ccfb22b6ed666dab07"/>
+    <project name="meta-arm" path="layers/meta-arm" remote="yoctoproject" revision="3cadb81ffaa9f03b92e302843cb22a9cd41df34b"/>
+    <project name="meta-ti" path="layers/meta-ti" remote="yoctoproject" revision="3282775a55488660d6d55925124755fe11399f1f"/>
+    <project name="meta-quince" path="layers/meta-quince" remote="quince" revision="d1eaf1426338b918cce5a88cd57d5193e00bf731"/>
+    <project name="meta-quince-ti" path="layers/meta-quince-rpi" remote="quince" revision="b9b8bfc482ad6b36dbc62012667faba37c8929eb"/>
+</manifest>
+
