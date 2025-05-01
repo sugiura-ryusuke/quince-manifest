@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="openembedded" fetch="https://git.openembedded.org"/>
+    <remote name="yoctoproject" fetch="https://git.yoctoproject.org"/>
+    <remote name="github" fetch="https://github.com"/>
+    <default remote="github" revision="main"/>
+
+    <project name="bitbake" path="layers/bitbake" remote="openembedded" revision="7375d32e8c1af20c51abec4eb3b072b4ca58b239"/>
+    <project name="openembedded-core" path="layers/openembedded-core" remote="openembedded" revision="cd2b6080a4c0f2ed2c9939ec0b87763aef595048"/>
+    <project name="meta-openembedded" path="layers/meta-openembedded" remote="openembedded" revision="f23c8d7362aa8b23a18e38ccfb22b6ed666dab07"/>
+</manifest>
+
