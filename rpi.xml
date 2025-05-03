@@ -11,7 +11,7 @@
     <project name="meta-openembedded" path="layers/meta-openembedded" remote="openembedded" revision="f23c8d7362aa8b23a18e38ccfb22b6ed666dab07"/>
     <project name="meta-lts-mixins" path="layers/meta-lts-mixins" remote="yoctoproject" revision="66ceeebd047d7fdfc8668b300319a76da8ae257d"/>
     <project name="meta-raspberrypi" path="layers/meta-raspberrypi" remote="yoctoproject" revision="c153c694bd7a08de474470d7c1c7fd550117b162"/>
-    <project name="meta-quince" path="layers/meta-quince" remote="quince" revision="13ca0a1aaf959de82caddd546365483df0b4fa72"/>
-    <project name="meta-quince-rpi" path="layers/meta-quince-rpi" remote="quince" revision="403304865836bc49f957073cb4938283fd4a55a5"/>
+    <project name="meta-quince" path="layers/meta-quince" remote="quince" revision="86b7611aeeee0430c49f0cfe2efa022dcafb797a"/>
+    <project name="meta-quince-rpi" path="layers/meta-quince-rpi" remote="quince" revision="9c0f4536facc419b6b924f0430aefca50411bf5a"/>
 </manifest>
 
