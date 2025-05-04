@@ -11,7 +11,7 @@
     <project name="meta-openembedded" path="layers/meta-openembedded" remote="openembedded" revision="f23c8d7362aa8b23a18e38ccfb22b6ed666dab07"/>
     <project name="meta-arm" path="layers/meta-arm" remote="yoctoproject" revision="3cadb81ffaa9f03b92e302843cb22a9cd41df34b"/>
     <project name="meta-ti" path="layers/meta-ti" remote="yoctoproject" revision="3282775a55488660d6d55925124755fe11399f1f"/>
-    <project name="meta-quince" path="layers/meta-quince" remote="quince" revision="86b7611aeeee0430c49f0cfe2efa022dcafb797a"/>
-    <project name="meta-quince-ti" path="layers/meta-quince-ti" remote="quince" revision="3c38de07f9dfda89e68975d2dfb23d7c9be980f7"/>
+    <project name="meta-quince" path="layers/meta-quince" remote="quince" revision="c619d420cf1a0eac5e9f2d96b75ba7254aab5334"/>
+    <project name="meta-quince-ti" path="layers/meta-quince-ti" remote="quince" revision="2ffe201aede583eb0d137edca2d2805b9694598a"/>
 </manifest>
 
