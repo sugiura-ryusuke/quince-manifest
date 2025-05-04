@@ -12,6 +12,6 @@
     <project name="meta-lts-mixins" path="layers/meta-lts-mixins" remote="yoctoproject" revision="66ceeebd047d7fdfc8668b300319a76da8ae257d"/>
     <project name="meta-raspberrypi" path="layers/meta-raspberrypi" remote="yoctoproject" revision="c153c694bd7a08de474470d7c1c7fd550117b162"/>
     <project name="meta-quince" path="layers/meta-quince" remote="quince" revision="c619d420cf1a0eac5e9f2d96b75ba7254aab5334"/>
-    <project name="meta-quince-rpi" path="layers/meta-quince-rpi" remote="quince" revision="e45c1526a13872be3e696f5f22a688f3433a29a6"/>
+    <project name="meta-quince-rpi" path="layers/meta-quince-rpi" remote="quince" revision="0172aa86129d1932499ce3e38cbdbc318aacba46"/>
 </manifest>
 
